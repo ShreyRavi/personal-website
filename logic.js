@@ -1,5 +1,6 @@
 //logic for shreyravi.com
 
+//a function to copy the current link to clipboard
 function copyLink() {
     var temp = document.createElement('input');
     document.body.appendChild(temp);
@@ -11,6 +12,8 @@ function copyLink() {
 }
 
 //function to convert text to HTML
+
+//a huge array of HTML code that will later be downloaded
 const template_writing = [`<!DOCTYPE html>
 <html lang="en">
     <head>
@@ -67,6 +70,7 @@ const template_writing = [`<!DOCTYPE html>
     </body>
 </html>`];
 
+//a function to convert inputted text to an auto-generated HTML file for download for my own convenience
 function convertTextToHTML() {
     var template_writing_copy = template_writing;
     template_writing_copy[1] = document.getElementById("inputTitle").value; //title
