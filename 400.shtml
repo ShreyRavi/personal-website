@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>400 Bad Request - Shrey Ravi</title>
+        <meta name="description" content="Shrey Ravi is a writer, historian, and programmer. This is his personal website." />
+        <link href='//fonts.googleapis.com/css?family=Lusitana:400,700|Quattrocento:400,700' rel='stylesheet' type='text/css' />
+        <link rel="stylesheet" type="text/css" href="https://www.shreyravi.com/style.css" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+    </head>
+    <body>
+        <center>
+            <h1>Shrey Ravi</h1>
+            <hr />
+            <a class="navlink current" href="https://www.shreyravi.com/index.html">Home</a> |
+            <a class="navlink" href="https://github.com/ShreyRavi">GitHub</a> |
+            <a class="navlink" href="https://www.linkedin.com/in/shreyravi/">LinkedIn</a> |
+            <a class="navlink" href="https://www.shreyravi.com/writing/">Writing</a> |
+            <div class="dropdown">
+              <a href="https://www.shreyravi.com/rankings.html" class="dropbtn navlink">Rankings &#8964;</a>
+              <div class="dropdown-content">
+                <a class="navlink" href="https://www.shreyravi.com/writing/timeless/flag-rankings.html">Flag Rankings</a>
+                <a class="navlink" href="https://www.shreyravi.com/writing/timeless/reading-hof.html">Book Rankings</a>
+                <a class="navlink" href="#">Leader Rankings</a>
+                <a class="navlink" href="#">Movie/TV Rankings</a>
+                <a class="navlink" href="#">Music Rankings</a>
+              </div>
+            </div> | 
+            <a class="navlink" href="https://www.shreyravi.com/writing/timeless/principles.html">Principles</a>
+            <hr />
+            <h2>Oops, That's A Bad Request!</h2>
+
+            <h3>The link you followed may be broken. Sorry :)</h3>
+            
+            <h2><a href="https://www.shreyravi.com">Go Home</a></h2>
+
+            <hr />
+            <div class="footer">Copyright &copy; Shrey Ravi 2020 / All Rights Reserved / <a href="https://www.shreyravi.com/legal.html">Legal</a> / <a href="https://www.shreyravi.com/contact.html">Contact</a></div>
+
+        </center>
+    </body>
+</html>

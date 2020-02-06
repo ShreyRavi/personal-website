@@ -1,0 +1,80 @@
+body {
+    margin: auto;
+	font-family: 'Quattrocento', serif;
+	font-size: 95%; 
+	line-height: 1.8em;
+    color: #444;
+    width: 92%;
+    margin-bottom: 8%;
+    max-width: 600px;
+    background-color: #F6F5ED; 
+}
+
+.navlink {
+    text-decoration: none;
+    font-size: 90%;
+}
+
+.current {
+    font-weight: bold;
+}
+
+a, a:visited {
+    text-decoration: underline;
+    color: #444;
+}
+
+.writing {
+    max-width: 550px;
+    margin-left: 3%;
+}
+
+hr {
+    max-width: 600px;
+}
+
+.bio {
+    margin: 0 auto;
+}
+
+.biotile {
+    display: flex;
+    max-width: 600px;
+    text-align: left;
+    line-height: 2.2em;
+}
+
+.profilePicture {
+    border-radius: 50%;
+    width: 100px;
+    flex: 0 0 20%;
+    margin-right: 30px;
+}
+
+.dropbtn {
+  
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover.dropbtn {background-color: #3e8e41;}
